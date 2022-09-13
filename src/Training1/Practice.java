@@ -11,6 +11,7 @@ public class Practice {
 		System.out.println(50+25);
 		System.out.println(1+2);
 		System.out.println("Welcome to world");
+		System.out.println("hi welcome");
 
 		
 		
